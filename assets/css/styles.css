@@ -63,13 +63,12 @@ a {
     display: flex;
     flex-direction: column;
     background-color: #e6f0ff;
-    height: 736px;
+    height: calc(100vh - 90px);
 }
 
 .navbar {
     display: flex;
     align-items: center;
-    /* padding-top: 38px; */
     padding: 12px 0;
 }
 
